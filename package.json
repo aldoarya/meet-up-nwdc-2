@@ -1,0 +1,24 @@
+{
+  "name": "meet-up-nwdc-2",
+  "version": "1.0.0",
+  "description": "Ashoy geboy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xKrausse/meet-up-nwdc-2.git"
+  },
+  "author": "xKrausse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xKrausse/meet-up-nwdc-2/issues"
+  },
+  "homepage": "https://github.com/xKrausse/meet-up-nwdc-2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0"
+  }
+}
