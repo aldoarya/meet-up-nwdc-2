@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/xKrausse/meet-up-nwdc-2#readme",
   "devDependencies": {
+    "@babel/core": "^7.13.8",
+    "@babel/preset-env": "^7.13.9",
     "browser-sync": "^2.26.14",
     "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
     "gulp-cli": "^2.3.0"
   }
 }
